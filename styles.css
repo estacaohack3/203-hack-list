@@ -1,3 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+
 body{
     margin: 0;
     padding: 0;
@@ -9,6 +13,7 @@ header{
     color: white;
     font-size: 30px;
     padding: 20px;
+    height: 10vh;
 }
 
 header h1{
@@ -16,7 +21,8 @@ header h1{
 }
 
 form{
-    padding: 20px;
+    padding-top: 20px;
+    height: 10vh;
 }
 
 form div{
@@ -45,6 +51,7 @@ form button{
 section{
     background-color: #16a0dc;
     color: white;
+    height: 70vh;
 }
 
 section ul{
@@ -60,4 +67,5 @@ section li{
 footer{
     background-color: #2d3195;
     color: white;
+    height: 8vh;
 }
