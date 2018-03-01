@@ -41,3 +41,23 @@ form button{
     background-color: #2d3195;
     color: white;
 }
+
+section{
+    background-color: #16a0dc;
+    color: white;
+}
+
+section ul{
+    padding: 0;
+}
+
+section li{
+    list-style-type: none;
+    font-size: 30px;
+    margin: 15px 10px;
+}
+
+footer{
+    background-color: #2d3195;
+    color: white;
+}
